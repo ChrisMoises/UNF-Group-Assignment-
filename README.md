@@ -1,11 +1,11 @@
 # Solar Energy PESTEL Analysis & Forecasting (U.S.)
-📌 Project Overview
+### 📌 Project Overview
 
 This project analyzes the growth of solar energy generation in the United States using a PESTEL framework (Political, Economic, Environmental) and applies time-series forecasting (SARIMA) to predict future trends.
 
 The objective is to identify key drivers of solar energy expansion and provide data-driven strategic insights for decision-makers.
 
-🎯 Objectives
+#### 🎯 Objectives
 
 - Analyze historical solar energy generation (2015–2024)
 
@@ -17,7 +17,7 @@ The objective is to identify key drivers of solar energy expansion and provide d
 
 - Provide strategic recommendations
 
-📊 Dataset
+#### 📊 Dataset
 
 Frequency: Monthly
 
@@ -39,7 +39,7 @@ Key Variables:
 
 - Precipitation (mm)
 
-🧠 Methodology
+#### 🧠 Methodology
 1. Data Preparation
 
 - Data cleaning and transformation
@@ -70,7 +70,7 @@ Key Variables:
 
 - SARIMA model (main model)
 
-🔮 Forecasting Approach
+#### 🔮 Forecasting Approach
 
 The SARIMA model was selected because solar generation exhibits:
 
@@ -78,10 +78,10 @@ The SARIMA model was selected because solar generation exhibits:
 
 - Clear seasonal cycles
 
-📅 Forecast horizon:
+#### 📅 Forecast horizon:
 2025 (12 months)
 
-📈 Key Insights
+#### 📈 Key Insights
 
 - Solar energy generation has grown significantly over the past decade
 
@@ -93,7 +93,7 @@ The SARIMA model was selected because solar generation exhibits:
 
 - Solar expansion contributes to emissions reduction
 
-⚠️ Limitations
+#### ⚠️ Limitations
 
 - National-level aggregation (no regional breakdown)
 
@@ -101,7 +101,7 @@ The SARIMA model was selected because solar generation exhibits:
 
 - External shocks not explicitly modeled
 
-🚀 Strategic Recommendations
+#### 🚀 Strategic Recommendations
 
 - Invest in grid infrastructure to support future capacity
 
@@ -111,7 +111,7 @@ The SARIMA model was selected because solar generation exhibits:
 
 - Improve climate-based forecasting systems
 
-📊 Dashboard
+#### 📊 Dashboard
 
 An interactive dashboard was developed in Power BI to visualize:
 
@@ -123,7 +123,7 @@ An interactive dashboard was developed in Power BI to visualize:
 
 📁 File: /dashboard/Solar_PESTEL_Dashboard.pbix
 
-🛠️ Technologies Used
+#### 🛠️ Technologies Used
 
 Python (Pandas, NumPy, Matplotlib, Seaborn)
 
@@ -149,7 +149,7 @@ Run the notebook:
 
 jupyter notebook Solar-PESTEL-Forecasting.ipynb
 
-📌 Author
+### 📌 Author
 
 Cristhian Moises Martínez Alay
 
