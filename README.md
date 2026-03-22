@@ -1,4 +1,4 @@
-🌞 Solar Energy PESTEL Analysis & Forecasting (U.S.)
+Solar Energy PESTEL Analysis & Forecasting (U.S.)
 📌 Project Overview
 
 This project analyzes the growth of solar energy generation in the United States using a PESTEL framework (Political, Economic, Environmental) and applies time-series forecasting (SARIMA) to predict future trends.
@@ -7,15 +7,15 @@ The objective is to identify key drivers of solar energy expansion and provide d
 
 🎯 Objectives
 
-Analyze historical solar energy generation (2015–2024)
+- Analyze historical solar energy generation (2015–2024)
 
-Identify key external drivers (PESTEL factors)
+- Identify key external drivers (PESTEL factors)
 
-Explore relationships between economic and environmental variables
+- Explore relationships between economic and environmental variables
 
-Forecast solar generation for 2025
+- Forecast solar generation for 2025
 
-Provide strategic recommendations
+- Provide strategic recommendations
 
 📊 Dataset
 
@@ -27,99 +27,99 @@ Unit of Analysis: United States
 
 Key Variables:
 
-Solar Electricity Generation (MW)
+- Solar Electricity Generation (MW)
 
-Investment (Billion USD)
+- Investment (Billion USD)
 
-Electricity Price (USD/kWh)
+- Electricity Price (USD/kWh)
 
-CO₂ Emissions
+- CO₂ Emissions
 
-Temperature (°C)
+- Temperature (°F)
 
-Precipitation (mm)
+- Precipitation (mm)
 
 🧠 Methodology
 1. Data Preparation
 
-Data cleaning and transformation
+- Data cleaning and transformation
 
-Time index creation
+- Time index creation
 
-Handling missing values and outliers
+- Handling missing values and outliers
 
 2. Exploratory Data Analysis (EDA)
 
-Distribution analysis
+- Distribution analysis
 
-Trend visualization
+- Trend visualization
 
-Seasonality detection
+- Seasonality detection
 
 3. Statistical Analysis
 
-Correlation analysis
+- Correlation analysis
 
-Regression modeling
+- Regression modeling
 
 4. Time-Series Modeling
 
-Stationarity testing (ADF test)
+- Stationarity testing (ADF test)
 
-ARIMA model
+- ARIMA model
 
-SARIMA model (main model)
+- SARIMA model (main model)
 
 🔮 Forecasting Approach
 
 The SARIMA model was selected because solar generation exhibits:
 
-Strong upward trend
+- Strong upward trend
 
-Clear seasonal cycles
+- Clear seasonal cycles
 
 📅 Forecast horizon:
 2025 (12 months)
 
 📈 Key Insights
 
-Solar energy generation has grown significantly over the past decade
+- Solar energy generation has grown significantly over the past decade
 
-Strong seasonal patterns (summer peaks, winter declines)
+- Strong seasonal patterns (summer peaks, winter declines)
 
-Investment and electricity prices are key drivers of growth
+- Investment and electricity prices are key drivers of growth
 
-Environmental conditions influence solar output
+- Environmental conditions influence solar output
 
-Solar expansion contributes to emissions reduction
+- Solar expansion contributes to emissions reduction
 
 ⚠️ Limitations
 
-National-level aggregation (no regional breakdown)
+- National-level aggregation (no regional breakdown)
 
-Limited time horizon
+- Limited time horizon
 
-External shocks not explicitly modeled
+- External shocks not explicitly modeled
 
 🚀 Strategic Recommendations
 
-Invest in grid infrastructure to support future capacity
+- Invest in grid infrastructure to support future capacity
 
-Maintain policy incentives for renewable energy
+- Maintain policy incentives for renewable energy
 
-Expand energy storage solutions
+- Expand energy storage solutions
 
-Improve climate-based forecasting systems
+- Improve climate-based forecasting systems
 
 📊 Dashboard
 
 An interactive dashboard was developed in Power BI to visualize:
 
-Solar generation trends
+- Solar generation trends
 
-PESTEL drivers
+- PESTEL drivers
 
-Forecast scenarios
+- Forecast scenarios
 
 📁 File: /dashboard/Solar_PESTEL_Dashboard.pbix
 
