@@ -152,7 +152,11 @@ jupyter notebook Solar-PESTEL-Forecasting.ipynb
 📌 Author
 
 Cristhian Moises Martínez Alay
+
 Daniel Olmedo Zapata Gaibor
+
 María Alejandra Boada Rodríguez
+
 Viviana Rivera Lozano 
+
 Yovanni Rojas Cardona  
