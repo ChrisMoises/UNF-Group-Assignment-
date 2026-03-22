@@ -1,4 +1,4 @@
-Solar Energy PESTEL Analysis & Forecasting (U.S.)
+# Solar Energy PESTEL Analysis & Forecasting (U.S.)
 📌 Project Overview
 
 This project analyzes the growth of solar energy generation in the United States using a PESTEL framework (Political, Economic, Environmental) and applies time-series forecasting (SARIMA) to predict future trends.
